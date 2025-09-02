@@ -56,7 +56,7 @@ This repository contains implementations of various **Machine Learning Algorithm
 
 2. Open the Jupyter notebooks in your environment:
     ```bash
-jupyter notebook
+    jupyter notebook
     ```
 
 3. Explore the implementations notebook by notebook.
